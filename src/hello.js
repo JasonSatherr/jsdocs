@@ -2,7 +2,7 @@
  * 
  * @param {int} a dd
  * @param {int} b ff
- * @returns 
+ * @returns a sum
  */
 function add(a, b){
     return a+b;
